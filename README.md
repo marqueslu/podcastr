@@ -1,5 +1,5 @@
 <div align="center">
-  ![logo](img/../public/logo.svg)
+  <img src="public/logo.svg" alt="Podcastr logo">
 </div>
 
 ## :rocket: Overview
