@@ -1,5 +1,6 @@
-# Podcastr
-![logo](img/../public/logo.svg)
+<div align="center">
+  ![logo](img/../public/logo.svg)
+</div>
 
 ## :rocket: Overview
 
