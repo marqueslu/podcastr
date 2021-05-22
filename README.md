@@ -33,9 +33,6 @@ npm run server
 yarn server
 ```
 
-[api](https://github.com/marqueslu/gostack-nodejs-upload)
-
-
 ### Running the project
 
 To run the project you just need to execute the following command in your terminal:
